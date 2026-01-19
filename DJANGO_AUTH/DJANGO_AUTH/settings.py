@@ -77,11 +77,11 @@ WSGI_APPLICATION = 'DJANGO_AUTH.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'test34_db',
+        'NAME': '',
         'USER': 'root',
-        'PASSWORD': 'Sid@9897',
-        'HOST': 'localhost',
-        'PORT': '3306',
+        'PASSWORD': '',
+        'HOST': '',
+        'PORT': '',
     }
 }
 
